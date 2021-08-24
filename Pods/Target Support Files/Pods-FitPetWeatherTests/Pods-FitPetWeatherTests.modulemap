@@ -1,0 +1,6 @@
+framework module Pods_FitPetWeatherTests {
+  umbrella header "Pods-FitPetWeatherTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
